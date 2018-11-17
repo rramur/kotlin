@@ -17,10 +17,10 @@ fun main(args: Array<String>) {
     const_val = null
     println(const_val)
 
+    var name = "Raghu Ram"
+    var year:Int = 1978
 
-
-
-
+    println("Name: " + name + "   " + year)
 
 
 }
