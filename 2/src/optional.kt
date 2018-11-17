@@ -12,6 +12,12 @@ fun main(args: Array<String>) {
      * name2 = null
      */
 
+    // optional is applicalbe for constants too
+    val const_val: Int?
+    const_val = null
+    println(const_val)
+
+
 
 
 
