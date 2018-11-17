@@ -2,12 +2,6 @@
 .DS_Store
 Thumbs.db
 
-# Exclude IDE specific Files
-**/.idea
-
-# Exclude Output Directory
-**/out
-
 # Compiled class file
 *.class
 
