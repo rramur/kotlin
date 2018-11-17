@@ -4,7 +4,7 @@ fun main(args: Array<String>) {
 
     /*
      * To define the type
-     * var name: String 
+     * var name: String
      */
 
     var name = "Hello Raghu Ram"
@@ -18,4 +18,9 @@ fun main(args: Array<String>) {
     var year = 1978
 
     println(year)
+
+
+    // Define constant
+    val const_name = "Raghu Ram"
+    println(const_name)
 }
