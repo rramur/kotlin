@@ -1,4 +1,11 @@
 fun main(args: Array<String>) {
-    println("Hello Raghu Ram")
-    println(1978)
+
+   var name = "Hello Raghu Ram"
+
+
+    println(name)
+
+    var year = 1978
+
+    println(year)
 }
